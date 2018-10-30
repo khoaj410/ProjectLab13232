@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">BookManager</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Tên đăng nhập</string>
+    <string name="prompt_password">Mật khẩu</string>
+    <string name="action_sign_in">Đăng nhập</string>
+    <string name="action_sign_in_short">Xong</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="login_check_box_text">Lưu mật khẩu?</string>
+    <string name="notify_empty_user_name">Không được để trống</string>
+    <string name="notify_empty_pass_word">Không được để trống mật khẩu</string>
+    <string name="notify_min_length_pass_word">Mật khẩu phải nhiều hơn 6 kí tự</string>
+    <string name="action_exit">Thoát</string>
+    <string name="title_activity_home">Quản lí sách</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_change_password">Đổi mật khẩu</string>
+    <string name="action_logout">Đăng xuất</string>
+    <string name="title_activity_user">Người dùng</string>
+    <string name="title_activity_category">Thể loại</string>
+    <string name="title_activity_book">Sách</string>
+    <string name="title_activity_order">Hóa đơn</string>
+    <string name="title_activity_analytic">Thống kê</string>
+    <string name="title_activity_best_seller">Sách bán chạy</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="action_save">Lưu</string>
+    <string name="action_reset">Nhập lại</string>
+    <string name="prompt_current_password">Mật khẩu hiện tại</string>
+    <string name="prompt_new_password">Mật khẩu mới</string>
+    <string name="prompt_re_password">Nhập lại mật khẩu</string>
+    <string name="title_activity_add_users">Thêm người dùng</string>
+    <string name="prompt_full_name">Họ và tên</string>
+    <string name="prompt_phone_number">Số điện thoại</string>
+    <string name="action_add">Thêm</string>
+    <string name="prompt_category_id">Mã thể loại</string>
+    <string name="prompt_category_name">Tên thể loại</string>
+    <string name="title_activity_add_categories">Thêm thể loại</string>
+    <string name="prompt_book_id">Mã sách</string>
+    <string name="action_find">Tìm</string>
+    <string name="title_activity_add_books">Thêm sách</string>
+    <string name="prompt_book_name">Tên sách</string>
+    <string name="prompt_author">Tác giả</string>
+    <string name="prompt_amount">Số lượng</string>
+    <string name="prompt_price">Giá bìa</string>
+    <string name="prompt_publisher">Nhà xuất bản</string>
+    <string name="prompt_order_id">Mã hóa đơn</string>
+    <string name="title_activity_add_orders">Thêm hóa đơn</string>
+    <string name="prompt_order_date">Ngày mua</string>
+    <string name="action_next">Tiếp</string>
+    <string name="title_activity_add_orders_detail">Thêm chi tiết hóa đơn</string>
+    <string name="label_total">Tổng</string>
+    <string name="prompt_month">Tháng</string>
+    <string name="title_activity_main_back_ground">MainBackGround</string>
+
+
+    <string name="notify_empty_user">Yêu cầu nhập liệu</string>
+    <string name="notify_empty_pass">Yêu cầu nhập liệu</string>
+    <string name="notify_length_user">Yêu cầu phải từ 6 kí tự trở lên</string>
+    <string name="notify_length_pass">Phải nhập trên 6 kí tự</string>
+    <string name="title_activity_user_atcivity">UserAtcivity</string>
+    <string name="title_activity_genre">GenreActivity</string>
+    <string name="title_activity_books">BooksActivity</string>
+    <string name="title_activity_bill">BillActivity</string>
+    <string name="title_activity_detail_bill">DetailBill</string>
+    <string name="title_activity_top10_">Top10_Activity</string>
+
+</resources>
